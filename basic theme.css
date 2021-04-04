@@ -1,0 +1,30 @@
+/**
+ * @name Basic theme 
+ * @author FRENSKYT.2.0#3911
+ * @version 1.0.0
+ * @description Un thème Discord élégant, sombre. Permet de mieux voir votre Discord, meilleure pour vos yeux. 
+ * @invite ZHthyCw
+ * @authorId 174868361040232448
+ * @donate https://paypal.me/IanRGibson
+ * @website https://github.com/Gibbu/BetterDiscord-Themes/tree/master/MinimalCord
+ * @source https://github.com/monstrousdev/themes/theme-files/Reborn.theme.css
+*/
+
+@import url('https://discordstyles.github.io/MinimalCord/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --accent: 42,183,88;
+  --message-padding: 10px;
+  --message-spacing: 10px;
+  --rs-small-spacing: 2px;
+  --rs-large-spacing: 3px;
+  --rs-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;
+}
